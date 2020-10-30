@@ -26,4 +26,4 @@ $ code .
 Quando o [VSCode](https://code.visualstudio.com/download) abrir você verá uma mensagem informando que foram detectadas as configurações necessárias para que a extensão [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) faça a mágica acontecer.
 
 
-Projeto base por <a href="https://github.com/pedrorenan/js-expert-week/stargazers">Pedro renan</a>.
+Projeto base por <a href="https://github.com/pedrorenan/js-expert-week">Pedro renan</a>.
